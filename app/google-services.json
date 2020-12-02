@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391302783868",
+    "firebase_url": "https://toptenytchannel-580c4.firebaseio.com",
+    "project_id": "toptenytchannel-580c4",
+    "storage_bucket": "toptenytchannel-580c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391302783868:android:45d6ffe3faf7c4d35c7af9",
+        "android_client_info": {
+          "package_name": "com.example.topyoutubechannels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391302783868-r0nfm1m63m9h6cningecdj59c6f9l9gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Vvd0hdq3obnw8NSAh7XNBq6vRhKTbBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391302783868-r0nfm1m63m9h6cningecdj59c6f9l9gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
